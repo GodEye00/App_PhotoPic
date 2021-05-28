@@ -1,0 +1,20 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">PhotoPic</string>
+    <string name="search">Search</string>
+    <string name="clear_search">Clear Search</string>
+    <string name="start_polling">Start Polling</string>
+    <string name="stop_polling">Stop Polling</string>
+    <string name="new_pictures_title">New PhotoGallery Pictures</string>
+    <string name="new_pictures_text">You have new pictures in PhotoGallery App</string>
+    <string name="new_pictures_text_long">You have new pictures in PhotoGallery App. You\'ve got to check them out!</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="view_image">View Related Images</string>
+    <string name="view_in_web">View Image Detail</string>
+    <string name="map_search">Find Area Image on Map</string>
+    <string name="area_locate">Find Closest Image In Your Area</string>
+    <string name="valid_map_image">Map Image</string>
+    <string name="invalid_map_image">Invalidate Map Image</string>
+    <string name="title_activity_maps_new">Map</string>
+
+
+</resources>
